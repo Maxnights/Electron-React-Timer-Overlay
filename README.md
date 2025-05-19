@@ -59,9 +59,6 @@ $ npm run build:mac
 $ npm run build:linux
 ```
 
-## If you would like to see how I made it, and find ways to customize it, you can watch step by step tutorial on Youtube:
-
-[![Fractal Tree Generator Demo](https://img.youtube.com/vi/6sMM5tGZUaQ/0.jpg)](https://www.youtube.com/watch?v=6sMM5tGZUaQ)
 
 ### 😀Happy Coding!
 
